@@ -11,7 +11,6 @@ In this tutorial we will be diving into more Dart programming concepts and learn
 
 For more sounds visit: https://freesound.org/
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
 ## What you will learn
 
